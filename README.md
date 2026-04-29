@@ -48,5 +48,5 @@ The logs showed a normal authentication sequence:
 ![Security Log Overview](Security_Log_Overview.png)
 ### Successful Logon Event (4624)
 ![Successful Logon](Successful_Logon.png)
-### Privileged Logon Event (4672)
+### Special Logon Event (4672)
 ![Special Logon](Special_Logon.png)
